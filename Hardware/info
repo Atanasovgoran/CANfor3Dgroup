@@ -1,0 +1,212 @@
+{
+  "uuid": "0e075ac4fd0e7e86b100f70f291809cc",
+  "path": "Offline/CAN-Breakout",
+  "name": "CAN-Breakout",
+  "content": "",
+  "created_at": "2020-12-29 05:17:42",
+  "updated_at": "2021-01-03 17:57:10",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "5aa9644ad22b478c536753fa496c8d2b",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "55d054c20c6441e487db8314a34ee073": 1,
+        "28aaf0ceb0314967900e34c6bc4b4e77": 2,
+        "91de3d3ed9df436a9b0eeeb936bdfe10": 2,
+        "c7ed5dfb34e60282f43c82c386dd894d": 3,
+        "d237db47c7964bcba34e4eef69baf3b1": 1,
+        "1d7aa9c8d20048d4af604d39b2656810": 1,
+        "01f8feef49be43dcbfbe672254cb7b57": 2,
+        "286952e69a532726bf48e4bcafe6e878": 2,
+        "f29f57ac58b24353a27984c5792bbc76": 5
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "MCP2542WFD-H/SN",
+          1,
+          "SOIC-8_L4.9-W3.9-P1.27-LS6.0-BL",
+          "U2",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "MICROCHIP",
+            "BOM_Manufacturer Part": "MCP2542WFD-H/SN",
+            "BOM_Supplier Part": "C144310",
+            "BOM_JLCPCB SMD": "Yes",
+            "puuid": "fea11772be3e46fc9943dcf3594665f6",
+            "uuid": "1d7aa9c8d20048d4af604d39b2656810"
+          }
+        ],
+        [
+          "60",
+          2,
+          "R0402",
+          "C1R2,C1R1",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "cea456c24ca24165b176bcf9114a7b29",
+            "uuid": "01f8feef49be43dcbfbe672254cb7b57"
+          }
+        ],
+        [
+          "RJHSE-5080",
+          2,
+          "AMPHENOL_RJHSE-5080",
+          "J2,J1",
+          {
+            "BOM_Manufacturer Part": "",
+            "puuid": "abeb83bf1b274180934755545e42e52f",
+            "uuid": "28aaf0ceb0314967900e34c6bc4b4e77"
+          }
+        ],
+        [
+          "MCP2518FD",
+          1,
+          "MCP2518",
+          "U1",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "",
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "puuid": "5b53a802d3ff45059eba53b408c1147f",
+            "uuid": "55d054c20c6441e487db8314a34ee073"
+          }
+        ],
+        [
+          "USB 3.1 C TYPE_C168696",
+          2,
+          "USB-C-TH_TYPE-USB-3.1-C",
+          "USBC1,USBC2",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C168696",
+            "BOM_Manufacturer": "LCSC",
+            "BOM_Manufacturer Part": "-",
+            "puuid": "e134e40ec8144024b8909b70597758b9",
+            "uuid": "91de3d3ed9df436a9b0eeeb936bdfe10"
+          }
+        ],
+        [
+          "Headers  Pins1x15P 2.54mm",
+          2,
+          "HDR-TH_15P-P2.54-V",
+          "H2,H3",
+          {
+            "BOM_Supplier Part": "C54102",
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "ReliaPro",
+            "BOM_Manufacturer Part": "Headers  Pins1x15P 2.54mm",
+            "puuid": "9113d2c51a594771a42e03539b691133",
+            "uuid": "286952e69a532726bf48e4bcafe6e878"
+          }
+        ],
+        [
+          "header1*2P",
+          3,
+          "HDR-TH_2P-P2.00-V",
+          "H,VIO,H1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "BOOMELE",
+            "BOM_Manufacturer Part": "Female header1*2P",
+            "BOM_Supplier Part": "C66509",
+            "puuid": "a109bca3cac54607a3ba339292451616",
+            "uuid": "c7ed5dfb34e60282f43c82c386dd894d"
+          }
+        ],
+        [
+          "40MHz",
+          1,
+          "CRISTAL SMD",
+          "X1",
+          {
+            "BOM_Supplier": "Mouser",
+            "BOM_Supplier Part": "C389786",
+            "BOM_Manufacturer": "ECS INC INTERNACIONAL",
+            "BOM_Manufacturer Part": "ECX-2236BSMD CRYSTAL",
+            "BOM_LCSC Assembly": "Yes",
+            "puuid": "62e9522604fa4e3693b68c48f8b12cb2",
+            "uuid": "d237db47c7964bcba34e4eef69baf3b1"
+          }
+        ],
+        [
+          "4700pF",
+          1,
+          "C0402",
+          "C1C",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "f8eca159cd18407f9d5df374a1c2badf",
+            "uuid": "f29f57ac58b24353a27984c5792bbc76"
+          }
+        ],
+        [
+          "0.1u",
+          4,
+          "C0402",
+          "U2C,U1C,O1C1,O1C2",
+          {
+            "BOM_Supplier Part": "",
+            "BOM_Supplier": "",
+            "BOM_Manufacturer Part": "",
+            "puuid": "f8eca159cd18407f9d5df374a1c2badf",
+            "uuid": "f29f57ac58b24353a27984c5792bbc76"
+          }
+        ]
+      ],
+      "updateTime": 1609512778,
+      "createTime": 1609215462,
+      "histories": [],
+      "created_at": "2020-12-29 05:17:42",
+      "updated_at": "2021-01-01 15:52:58"
+    },
+    {
+      "uuid": "b5746570317f6f1b064514bbb1da0446",
+      "puuid": "0e075ac4fd0e7e86b100f70f291809cc",
+      "title": "PCB_2020-12-29_16-11-59",
+      "filename": "PCB_2020-12-29_16-11-59.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "abeb83bf1b274180934755545e42e52f": 2,
+        "a109bca3cac54607a3ba339292451616": 3,
+        "62e9522604fa4e3693b68c48f8b12cb2": 1,
+        "fea11772be3e46fc9943dcf3594665f6": 1,
+        "cea456c24ca24165b176bcf9114a7b29": 2,
+        "5b53a802d3ff45059eba53b408c1147f": 1,
+        "9113d2c51a594771a42e03539b691133": 2,
+        "f8eca159cd18407f9d5df374a1c2badf": 5,
+        "e134e40ec8144024b8909b70597758b9": 2
+      },
+      "BOM": [],
+      "updateTime": 1609693030,
+      "createTime": 1609254719,
+      "histories": [],
+      "created_at": "2020-12-29 16:11:59",
+      "updated_at": "2021-01-03 17:57:10"
+    }
+  ],
+  "sort": [],
+  "title": "CAN-Breakout",
+  "foldername": "CAN-Breakout",
+  "schfilename": "CAN-Breakout.json",
+  "schfilemtime": 1609512778653
+}
